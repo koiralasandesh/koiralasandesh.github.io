@@ -25,6 +25,19 @@ ul li a{
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
 }
+@media only screen and (max-width: 600px) {
+    #sidebar, #right-sidebar{
+      visibility: hidden;
+    }
+   *{
+    font-size: 14px;
+   }
+   #intro{
+       font-size: 1.25em;
+   }
+
+
+}
 
 #sidebar{
     display: block;
