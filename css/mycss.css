@@ -35,6 +35,9 @@ ul li a{
    #intro{
        font-size: 1.25em;
    }
+   .center-container{
+       width: 100%;
+   }
 
 
 }
